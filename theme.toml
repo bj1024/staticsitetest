@@ -1,0 +1,18 @@
+name = "Netlify & hugo"
+license = "Apache 2.0"
+licenselink = "https://github.com/humboldtux/startbootstrap-clean-blog/blob/master/LICENSE.md"
+description = "Netlify & hugo test sample."
+homepage = "https://github.com/bj1024/staticsitetest"
+tags = ["blog", "bootstrap"]
+features = ["blog", "bootstrap"]
+min_version = 0.18
+
+[author]
+  name = "bj1024"
+  homepage = "https://twitter.com/bj1024"
+
+# original theme
+[original]
+  name = "Startbootstrap Clean Blog"
+  homepage = "http://startbootstrap.com/template-overviews/clean-blog/"
+  repo = "https://github.com/IronSummitMedia/startbootstrap-clean-blog"
