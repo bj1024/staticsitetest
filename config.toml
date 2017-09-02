@@ -1,0 +1,21 @@
+#baseurl = "/"
+languageCode = "ja"
+title = "Hugo と NetlifyでStaticPageをつくってみる。"
+# theme
+theme = "hugo-theme-shiori"
+# Comment the themesDir option if you use this theme in production
+#themesDir = "../.."
+# google analytics
+GoogleAnalytics = "UA-2915788-11"
+hasCJKLanguage = true
+
+[params]
+  description = "I <3 making web site"
+  mainIcon = "/img/hugo.png"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/bj1024"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/bj1024/staticsitetest"

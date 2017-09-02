@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo test.</title>
+    <link>./</link>
+    <description>Recent content on Hugo test.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 13 Oct 2014 20:07:19 +0000</lastBuildDate>
+    
+	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>./post/first/</link>
+      <pubDate>Mon, 13 Oct 2014 20:07:19 +0000</pubDate>
+      
+      <guid>./post/first/</guid>
+      <description>##Hello first post</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>./post/second/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>./post/second/</guid>
+      <description>##Post background color change</description>
+    </item>
+    
+    <item>
+      <title>third</title>
+      <link>./post/third/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>./post/third/</guid>
+      <description>##Carrousel Carrousel are special hugo Section that has no content but use the toml header to populate a slide show.</description>
+    </item>
+    
+    <item>
+      <title>Firstpost</title>
+      <link>./post/firstpost/</link>
+      <pubDate>Sat, 02 Sep 2017 11:05:38 +0900</pubDate>
+      
+      <guid>./post/firstpost/</guid>
+      <description>hugoでサイトを作りました。  hugo はこちら。
+ The world’s fastest framework for building websites Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
+Hugo | A Fast and Flexible Website Generator
+  GitHubにデプロイしました。
+ Netlify で hugo を動かして、StaticSiteをデプロイしました。
+   Write frontend code. Push it. We handle the rest. All the features developers need right out of the box: Global CDN, Continuous Deployment, one click HTTPS and more…</description>
+    </item>
+    
+  </channel>
+</rss>
