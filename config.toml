@@ -1,4 +1,4 @@
-baseurl = "https://boxer-mildred-16725.netlify.com/"
+baseurl = "https://boxer-mildred-16725.netlify.com"
 languageCode = "ja"
 title = "Hugo と NetlifyでStaticPageをつくってみる。"
 # theme
